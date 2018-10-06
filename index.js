@@ -30,4 +30,4 @@ function placeOrder(cardNumber) {
   // write your code here
 }
 
-console.log(Math.floor(Math.random()))
+console.log(Math.floor(Math.random(1,100)))
